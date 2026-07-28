@@ -1,2 +1,2 @@
 # Tool 
-Voleur de presse papier
+Clipper de presse papier
